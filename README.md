@@ -9,5 +9,4 @@ Currently at Radiant RFID — migrating legacy systems to .NET 8, building distr
 **Experience:** backend development, system modernization, and legacy refactoring.  
 **Previously:** support engineer and project coordinator.
 
-📧 sydoruk.m@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/misha-sydoruk-367bba78)
+📧 [LinkedIn](https://www.linkedin.com/in/mykhailo-sydoruk-367bba78/)
